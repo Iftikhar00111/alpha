@@ -1,1 +1,1 @@
-# alpha
+If you are looking for code to find out the built-up area of any regions. This is the code for it, you will need a shapefile before using this code along with that you have to prepare your project at google earth engine as well. 
